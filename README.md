@@ -7,7 +7,7 @@
     - LinkedIn: https://www.linkedin.com/in/cassandra-tolton-b4a112217/
     
 ## About Me:
-  i am a software devoloper in Las Vegas currently working on my skills and confidence within the industry. i have been learning programming since 2020 and plan on switching my major to computer science within the upcoming spring semester. 
+  i am a software devoloper in Las Vegas currently working on my skills and confidence within the industry. i have been learning programming since 2020 and currentl getting a BS CS degree at UNLV. 
 
 <!---
 CassandraTolton/CassandraTolton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
