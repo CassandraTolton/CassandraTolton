@@ -35,11 +35,11 @@ Hi there! I'm Cassandra, but you can call me Cass! Im a passionate software deve
 
 ### Hotelbooking Application
 A brief description of the project.  
-🔗 [GitHub Repo](link) • 🚀 [Live Demo](link)
+🔗 [GitHub Repo](https://github.com/CassandraTolton/HotelBookingApplication) • 🚀 [Live Demo](link)
 
 ### PRISM
 A brief description of the project.  
-🔗 [GitHub Repo](link)
+🔗 [GitHub Repo]()
 
 ---
 
@@ -49,6 +49,9 @@ A brief description of the project.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CassandraTolton&layout=compact&theme=github_dark)
 
 ---
+
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/CassandraTolton?ext=heatmap&theme=dark&animation=true)
 
 ## 🤝 Let's Connect
 
