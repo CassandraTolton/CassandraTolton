@@ -45,8 +45,8 @@ A brief description of the project.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassandratolton&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassandratolton&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CassandraTolton&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CassandraTolton&layout=compact&theme=github_dark)
 
 ---
 
